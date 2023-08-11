@@ -1,5 +1,5 @@
 # 8_Bit_CPU
-##Design an 8 bit CPU in Logisim from the ground up using logic gates. 
+## Design an 8 bit CPU in Logisim from the ground up using logic gates. 
 Instructor: © Ross MacGowan ( Design a CPU)
 
 ![image](https://github.com/manavshah-28/8_Bit_CPU/assets/82638448/7bef940d-aef9-4107-8662-0b97d8267f0f)
