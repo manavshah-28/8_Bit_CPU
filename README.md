@@ -15,6 +15,15 @@ Instructor: © Ross MacGowan ( Design a CPU)
 ![image](https://github.com/manavshah-28/8_Bit_CPU/assets/82638448/ba577265-f32a-40a5-92e1-25a3082560ad)
 ![image](https://github.com/manavshah-28/8_Bit_CPU/assets/82638448/b2928a35-6dfb-48d3-9334-ef192db4dea0)
 
+### Key learnings
+- Computer Architecture
+- Logisim software
+- Design of computer compoenets such as RAM, ROM, ALU, Registers, Decoders, Clocks, Counters, etc. using basic combinatorial logic gates.
+- Instruction Set Architecture
+- Assemblers and Assembly Language
 
-
-
+### setup 
+-The Logisim software works on a java runtime environment. To set up said environment visit (link)[https://www.java.com/en/download/].
+-The logisim software can then be run.
+-Check out (Design a CPU)[https://www.udemy.com/course/design-a-cpu/?referralCode=B07BE3FAAA67CBB65F29] course by Ross Macgowan.
+_All credits to © Ross Macgowan_
