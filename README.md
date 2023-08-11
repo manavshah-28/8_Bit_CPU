@@ -23,7 +23,7 @@ Instructor: © Ross MacGowan ( Design a CPU)
 - Assemblers and Assembly Language
 
 ### setup 
--The Logisim software works on a java runtime environment. To set up said environment visit (link)[https://www.java.com/en/download/].
+-The Logisim software works on a java runtime environment. To set up said environment visit [link](https://www.java.com/en/download/).
 -The logisim software can then be run.
--Check out (Design a CPU)[https://www.udemy.com/course/design-a-cpu/?referralCode=B07BE3FAAA67CBB65F29] course by Ross Macgowan.
+-Check out [Design a CPU](https://www.udemy.com/course/design-a-cpu/?referralCode=B07BE3FAAA67CBB65F29) course by Ross Macgowan.
 _All credits to © Ross Macgowan_
